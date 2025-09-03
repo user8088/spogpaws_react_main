@@ -2,11 +2,11 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 // Import images
-import bannerBg from "../../assets/img/banner/banner_bg.jpg";
-import titleImg01 from "../../assets/img/banner/banner_title_img01.png";
+import bannerBg from "../../assets/img/banner/banner_img.png";
+import titleImg01 from "../../assets/img/banner/h3_banner_title_img.png";
 import titleImg02 from "../../assets/img/banner/banner_title_img02.png";
 import rightArrow from "../../assets/img/icon/right_arrow.svg";
-import bannerImg01 from "../../assets/img/banner/banner_img01.png";
+import bannerImg01 from "../../assets/img/banner/hero_img.png";
 import petIcon01 from "../../assets/img/icon/pet_icon01.svg";
 import bannerShape01 from "../../assets/img/banner/banner_shape01.png";
 import bannerShape02 from "../../assets/img/banner/banner_shape02.png";

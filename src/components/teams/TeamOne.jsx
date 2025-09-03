@@ -2,8 +2,8 @@ import React from "react";
 import { TeamOneItem } from "./TeamOneItem";
 import { Link } from "react-router-dom";
 
-import teamImg01 from "../../assets/img/team/team_img01.jpg";
-import teamImg02 from "../../assets/img/team/team_img02.jpg";
+import teamImg01 from "../../assets/img/team/team_img01.png";
+import teamImg02 from "../../assets/img/team/team_img02.png";
 import teamImg03 from "../../assets/img/team/team_img03.jpg";
 import teamImg04 from "../../assets/img/team/team_img04.jpg";
 import petIcon from "../../assets/img/icon/pet_icon02.svg";

@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { Odometer } from "../odometer/Odometer";
 
-import counterImg from "../../assets/img/images/counter_img.jpg";
+import counterImg from "../../assets/img/images/counter_img.png";
 import counterImgShape from "../../assets/img/images/counter_img_shape.svg";
 import counterShape01 from "../../assets/img/images/counter_shape01.png";
 import counterShape02 from "../../assets/img/images/counter_shape02.png";
@@ -17,11 +17,11 @@ export const CounterOne = () => {
           <div className="col-lg-5 col-md-8 order-0 order-lg-2">
             <div className="counter__img">
               <div className="mask-img-wrap">
-                <img src={counterImg} alt="img" />
+                <img src={counterImg} alt="img"  />
               </div>
-              <div className="counter__img-shape">
+              {/* <div className="counter__img-shape">
                 <img src={counterImgShape} alt="" className="injectable" />
-              </div>
+              </div> */}
               <div className="shape">
                 <img src={counterShape01} alt="img" className="ribbonRotate" />
               </div>
