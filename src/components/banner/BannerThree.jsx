@@ -2,7 +2,7 @@ import React from "react";
 
 import bannerBg from "../../assets/img/banner/banner_img.png";
 import titleImg from "../../assets/img/banner/h3_banner_title_img.png";
-import bannerImg from "../../assets/img/banner/hero_img.png";
+import bannerImg from "../../assets/img/banner/adopt.png";
 import bannerImgShape from "../../assets/img/banner/hero_bg_shape.png";
 import bannerShape02 from "../../assets/img/banner/yarn.png";
 import bannerShape01 from "../../assets/img/banner/cat_hand.png";

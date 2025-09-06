@@ -20,7 +20,7 @@ export const HomeThree = () => {
       <AboutThree />
 
       {/* brand */}
-      <BrandThree />
+      {/* <BrandThree /> */}
 
       {/* animal */}
       <AnimalTwo />

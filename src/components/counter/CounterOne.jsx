@@ -22,9 +22,9 @@ export const CounterOne = () => {
               {/* <div className="counter__img-shape">
                 <img src={counterImgShape} alt="" className="injectable" />
               </div> */}
-              <div className="shape">
+              {/* <div className="shape">
                 <img src={counterShape01} alt="img" className="ribbonRotate" />
-              </div>
+              </div> */}
             </div>
           </div>
 
@@ -79,14 +79,14 @@ export const CounterOne = () => {
         </div>
       </div>
 
-      <div className="counter__shape">
+      {/* <div className="counter__shape">
         <img
           src={counterShape02}
           alt="img"
           data-aos="fade-up-left"
           data-aos-delay="400"
         />
-      </div>
+      </div> */}
     </section>
   );
 };

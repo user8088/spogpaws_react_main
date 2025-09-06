@@ -35,7 +35,7 @@ export const HomeOne = () => {
       <CounterOne />
 
       {/* brand */}
-      <BrandOne />
+      {/* <BrandOne /> */}
 
       {/* team */}
       <TeamOne />
